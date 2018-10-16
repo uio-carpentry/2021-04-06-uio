@@ -437,7 +437,7 @@ and our administrator may contact you if we need any extra information.</h4>
   </div>
 </div> {% comment %} End of 'shell' section. {% endcomment %}
 
-{% comment %}
+
 <h2 id="setup">Optional Setup</h2>
 
 <div id="editor"> {% comment %} Start of 'editor' section. {% endcomment %}
