@@ -308,18 +308,9 @@ and our administrator may contact you if we need any extra information.</h4>
       <h4 id="sql-windows">Windows</h4>
       <ol>
         <li>
-        The <a href="{{site.swc_installer}}">
-          {% if page.carpentry == "swc" %}
-          Software Carpentry
-          {% elsif page.carpentry == "dc" %}
-          Data Carpentry
-          {% elsif page.carpentry == "lc" %}
-          Library Carpentry
-          {% endif %}
-          Windows Installer
-    </a>
-        installs SQLite for Windows.
-        If you used the installer to configure nano, you don't need to run it again.
+          Download SQLite from the
+          <a href="https://www.sqlite.org/download.html">SQLite Download Page</a>.
+          The correct download link is located under the heading "Precompiled Binaries for Windows" and starts with "sqlite-tools".
       </li>
       <li>
           Download and install DB Browser for SQLite (64-bit Windows .exe) from
