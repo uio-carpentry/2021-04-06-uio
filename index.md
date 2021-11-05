@@ -2,7 +2,7 @@
 layout: workshop                        # DON'T CHANGE THIS.
 carpentry: "swc"                        # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "One-day Databases and SQL workshop, University of Oslo"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Biologibygget (Kristine Bonnevies hus), Bikuben, room Nucleus"                             # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "TBA"                             # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "no"                           # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"                          # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "59.938476,10.722343"           # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
