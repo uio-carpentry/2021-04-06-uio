@@ -11,7 +11,7 @@ humantime: "09:00–16:00"                # human-readable times for the worksho
 startdate: 2021-12-07                   # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-12-07                     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Kyrre T. Låberg"]         # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Dan Michael O. Heggø"]        # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Dan Michael O. Heggø","Federico Aurora","Annika Rockenberger"]        # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["contact-us@carpentry.uio.no"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: "http://pad.software-carpentry.org/2021-12-07-Oslo"             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
