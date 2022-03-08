@@ -5,8 +5,8 @@ venue: "One-day Databases and SQL workshop, University of Oslo"        # brief n
 address: "Kristine Bonnevies hus: Proteome 3627, Blindernvn. 31, 0851 Oslo"                             # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "no"                           # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"                          # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "58.882351,9.019090"           # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Dec 7, 2021"               # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+latlng: "59.93859921479975, 10.7225121779125"           # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+humandate: "Apr 6, 2022"               # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "09:00–16:00"                # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-04-06                   # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-05-06                     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
